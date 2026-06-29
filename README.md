@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PurpleClover42
 - 👀 I’m interested in programming and game design
-- 🌱 I’m currently learning programming (C++, python)
+- 🌱 I’m currently learning programming (C++, python, Rust)
 - 💞️ I’m looking to collaborate on nothing, I'm currently busy
 - 📫 How to reach me: don't
 - 😄 Pronouns: She/her
